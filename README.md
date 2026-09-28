@@ -126,7 +126,7 @@ open_to: engineering roles, open-source work, and technical collaboration
 
 ### Have a useful problem?
 
-[Email me](mailto:aungthuhein.ath05@gmail.com) · [Read my writing](https://medium.com/@aungthuhein.ath05) · [Visit my portfolio](https://portfolio-theta-ten-63.vercel.app/)
+[Email me](mailto:aungthuhein.ath05@gmail.com) · [Read my writing](https://medium.com/@aungthuhein.ath05) · [Visit my portfolio](https://aungthuhein.vercel.app)
 
 <sub>Bangkok, Thailand · Building practical software and language technology</sub>
 
