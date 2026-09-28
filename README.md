@@ -111,16 +111,7 @@ Applied AI              NLP pipelines · model evaluation · browser inference
 Engineering practice    Maintainable systems · documentation · reproducibility
 ```
 
-## `04` GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aungthuhein2005&show_icons=true&hide_border=true&bg_color=00000000&title_color=b93824&text_color=68675f&icon_color=b93824" alt="Aung Thu Hein's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungthuhein2005&layout=compact&hide_border=true&bg_color=00000000&title_color=b93824&text_color=68675f" alt="Most-used languages" />
-
-</div>
-
-## `05` Currently
+## `04` Currently
 
 ```yaml
 building: full-stack education platforms
